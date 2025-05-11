@@ -4,7 +4,7 @@ This is the README file to give you an overview of the project.
 ## Introduction
 Do you want to know more about the job market for data professionals globally and in the UK in 2023? This project explores 📊 the most frequently posted jobs and 💰 associated salaries for data professionals, as well as delving into the details of the 📈 Data Scientist role and 🔥 in-demand skills needed to succeed in the market. At the same time, this project showcases 💻 my SQL coding skills and 📢 my ability to clearly communicate the findings. 
 
-SQL queries are available in the project’s [sql_queries](/sql_project/sql_queries/) folder, and the R script to visualise key findings is in the [r_code](/sql_project/r_code/) folder.
+SQL queries are available in the project’s [sql_queries](/sql_queries/) folder, and the R script to visualise key findings is in the [r_code](/r_code/) folder.
 
 # Background
 The motivation behind this project comes from my desire to better understand market trends for the Data Scientist role in the UK. I aimed to discover which skills are the most in demand and to identify patterns in the data job market, making potential job searches more targeted and effective. The data for this analysis came from **Luke Barousse’s** [SQL Course](https://lukebarousse.com/sql). This data includes details on job titles, salaries, locations, and required skills. Data was collected in 2023 and is available to explore via the [Data.Nerd App](https://datanerd.tech).
